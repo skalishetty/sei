@@ -45,7 +45,7 @@ public class DeDup {
 
 	/**
 	 * Use Case: 
-	 * Use this method uses HashSet to remove duplicate elements.
+	 * This method uses HashSet to remove duplicate elements.
 	 * 
 	 * @return an array of integers
 	 */
